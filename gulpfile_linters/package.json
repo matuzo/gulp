@@ -1,0 +1,17 @@
+{
+  "name": "gulpfile_linters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-csslint": "^0.1.5",
+    "gulp-htmlhint": "0.0.9",
+    "gulp-jslint": "^0.1.9"
+  }
+}
