@@ -1,7 +1,11 @@
-## Gulp
+## My gulpfiles
 
+### [gulpfile with less & livereload](gulpfile_less)
 
-My gulpfiles
+A gulpfile with less compiling and livereload.
+
+Run `npm install` to download dependencies and `gulp watch` to run the task.
+
 
 ### [gulpfile with jslint, csslint & htmlhint](gulpfile_linters)
 
