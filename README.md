@@ -1,5 +1,13 @@
 ## My gulpfiles
 
+### [gulpfile with uncss](gulpfile_uncss)
+
+A gulpfile with a basic setup of uncss.
+
+Run `npm install` to download dependencies and `gulp uncss` to run the tasks.
+
+`pathToProject` needs to be changed to the absolute path to your project.
+
 ### [gulpfile with less & livereload](gulpfile_less)
 
 A gulpfile with less compiling and livereload.
