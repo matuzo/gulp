@@ -1,0 +1,7 @@
+.js-is-hidden {
+	display: block;	
+}
+
+.js-is-active {
+	color: red;
+}
