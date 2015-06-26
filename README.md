@@ -1,5 +1,11 @@
 ## My gulpfiles
 
+### [gulpfile with imageoptim](gulpfile_imageoptim)
+
+A gulpfile with a basic setup of imageoptim.
+
+Run `npm install` to download dependencies and `gulp imgopt` to run the tasks.
+
 ### [gulpfile with uncss](gulpfile_uncss)
 
 A gulpfile with a basic setup of uncss.
